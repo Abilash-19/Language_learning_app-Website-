@@ -1,1 +1,3 @@
 # Language_learning_app-Website-
+
+I played a pivotal role in the creation of our language learning website, where my contributions extended to both web development and UI design. In the realm of web development, I actively participated in crafting the website's functionality, ensuring a seamless and efficient user experience. My involvement in UI design focused on creating an aesthetically pleasing and user-friendly interface, incorporating elements that enhance overall usability. By combining my skills in web development and UI design, I successfully contributed to the realization of a well-rounded language learning platform that not only functions effectively but also engages users through an appealing and intuitive design.
